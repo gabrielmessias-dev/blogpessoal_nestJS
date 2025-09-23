@@ -13,9 +13,9 @@ import { PostagemModule } from './postagem/postagem.module';
       password: 'root',
       database: 'db_blogpessoal',
       entities: [Postagem],
-      synchronize: true
+      synchronize: true,
     }),
-    PostagemModule
+    PostagemModule,
   ],
   controllers: [],
   providers: [],
