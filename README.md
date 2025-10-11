@@ -91,8 +91,7 @@ A aplicação será iniciada em:
 O próximo estágio do projeto é o desenvolvimento do Front-End em React, que irá consumir esta API e permitir a interação completa do usuário com o sistema.
 
 👨‍💻 Autor
-Gabriel Messias
-Desenvolvedor Front-End em transição de carreira para tecnologia, atualmente estudando Análise e Desenvolvimento de Sistemas e participante do programa Ford <ENTER>.
+Gabriel Messias - Desenvolvedor Full Stack JS
 🔗 LinkedIn - https://linkedin.com/in/gabrielmessias-dev
 
 ⭐ Se este projeto foi útil, não esqueça de deixar uma estrela no repositório!
